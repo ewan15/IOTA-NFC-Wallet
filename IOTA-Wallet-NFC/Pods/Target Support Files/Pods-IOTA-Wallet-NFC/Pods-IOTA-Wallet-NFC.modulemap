@@ -1,0 +1,6 @@
+module Pods_IOTA_Wallet_NFC [system] {
+  umbrella header "Pods-IOTA-Wallet-NFC-umbrella.h"
+
+  export *
+  module * { export * }
+}
